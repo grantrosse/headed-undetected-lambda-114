@@ -1,0 +1,4 @@
+selenium==4.9
+urllib3<2.0
+undetected-chromedriver==3.4.6
+PyVirtualDisplay==3.0
